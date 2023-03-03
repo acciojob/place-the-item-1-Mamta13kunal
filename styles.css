@@ -1,2 +1,20 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */.container{
+	 flex-direction: row;
+	 flex: 1;
+	flex-grow: 1;
+flex-shrink: 1;
+flex-basis: auto;
+}
+.data{
+	 width: 200px;
+    height: 200px;
+	margin: 20px;
+	background-color: dodgerblue;
+    color: white ;
+	align-items: center;
+ justify-content: center;
+	    justify-content: space-around;
+   justify-content: space-between;
+
+}
